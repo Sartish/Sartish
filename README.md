@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I am Sara a Frontend developer
 
-<!--
-**Sartish/Sartish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A swede in Oslo 📍
 
-Here are some ideas to get you started:
+Since my first coding course 2018 with Tjejer kodar, I have been inspired to create user friendly websites with meaningful content. I Graduated the Technigo Coding bootcamp - spring 2021👩‍🎓 and now looking for my next step in my coding career👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙏 I enjoy projects were user-friendliness is a priority to create a smooth and enjoyable application experience.
+
+👀 My favorite stack includes: HTML, CSS, React, React Redux, Styled Components, Material UI, Node.js, Express and MongoDB
+🔭 I’m currently working on a blog to sharpen my React skills, also integrating som CMS Strapi, to add articles 
+🌱 I’m currently learning React, CMS
+📚 I have got a MSc. in  International Business and Politics  from Copenhagen Business School
+🤓 I have previously worked as an SAP consultant for Capgemini, with focus on Test management. 
+📫 Let's connect https://www.linkedin.com/in/sara-carlstein-532b2737/
+🛠 Visit my Portfolio at: https://sara-carlstein-portfolio.netlify.app
+
