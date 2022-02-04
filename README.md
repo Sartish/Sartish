@@ -9,5 +9,4 @@ A swede in Oslo 📍
 * 📚 I have got a MSc. in  International Business and Politics from Copenhagen Business School.
 * 🤓 I work as a frontend developer for Capgemini
 * 📫 Let's connect https://www.linkedin.com/in/sara-carlstein-532b2737/
-* 🛠 Visit my Portfolio at: https://sara-carlstein-portfolio.netlify.app
 
