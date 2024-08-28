@@ -10,4 +10,4 @@ A swede in Oslo 📍
 * 🤓 I work as a frontend developer at NoA Ignite
 
 I am always looking for new ideas & inspiration
-[https://saracarlstein.com]
+[https://www.muniz.ai/]
